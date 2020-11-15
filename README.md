@@ -12,3 +12,10 @@ A record that helps me（对我有帮助的记录）
 #### UI
 
 1. 眼花缭乱的按钮 https://www.bootcss.com/p/buttons/
+2. 开源中国浏览器兼容提醒页面 https://www.oschina.net/ie_compatibility
+
+
+#### Backend
+
+1. 后端程序员写Html https://j2html.com/examples.html
+2. 其实后端程序员也需要画图的，一个免费开源的流程图软件 https://app.diagrams.net/
