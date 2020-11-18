@@ -34,6 +34,7 @@ A record that helps me（对我有帮助的记录）
 6. sql神器 https://github.com/launchbadge/sqlx
 7. https://github.com/RustScan/RustScan 一个端口扫描工具
 8. UI库 https://github.com/redox-os/orbtk  https://github.com/linebender/druid
+9. 一个很吸引人的终端介绍 https://github.com/o2sh/onefetch
 
 #### Rust Web
 1. https://github.com/http-rs/tide
