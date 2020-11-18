@@ -35,6 +35,9 @@ A record that helps me（对我有帮助的记录）
 7. https://github.com/RustScan/RustScan 一个端口扫描工具
 8. UI库 https://github.com/redox-os/orbtk  https://github.com/linebender/druid
 
+#### Rust Web
+1. https://github.com/http-rs/tide
+
 #### 暂时用不着
 1. https://www.google.com/get/noto/
 2. https://github.com/hyperium/tonic
