@@ -26,7 +26,7 @@ A record that helps me（对我有帮助的记录）
 1. 一个持续关注的游戏引擎 https://flame-engine.org/  另外好多游戏资源 https://opengameart.org/
 
 #### Rust
-1. 开发终端必备神器 https://github.com/clap-rs/clap
+1. 开发终端必备神器 https://github.com/clap-rs/clap  https://github.com/fdehau/tui-rs
 2. 数据ORM https://github.com/diesel-rs/diesel
 3. 博客站点神器 https://github.com/getzola/zola
 4. 统计代码神器 https://github.com/chinanf-boy/tokei-zh
