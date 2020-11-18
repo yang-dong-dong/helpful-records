@@ -30,3 +30,4 @@ A record that helps me（对我有帮助的记录）
 2. 数据ORM https://github.com/diesel-rs/diesel
 3. 博客站点神器 https://github.com/getzola/zola
 4. 统计代码神器 https://github.com/chinanf-boy/tokei-zh
+5. curl 代码快速“变现” https://github.com/NickCarneiro/curlconverter
