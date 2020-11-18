@@ -32,6 +32,7 @@ A record that helps me（对我有帮助的记录）
 4. 统计代码神器 https://github.com/chinanf-boy/tokei-zh
 5. curl 代码快速“变现” https://github.com/NickCarneiro/curlconverter
 6. sql神器 https://github.com/launchbadge/sqlx
+7. https://github.com/RustScan/RustScan 一个端口扫描工具
 
 #### 暂时用不着
 1. https://www.google.com/get/noto/
