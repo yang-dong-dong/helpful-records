@@ -28,3 +28,4 @@ A record that helps me（对我有帮助的记录）
 #### Rust
 1. 开发终端必备神器 https://github.com/clap-rs/clap
 2. 数据ORM https://github.com/diesel-rs/diesel
+3. 博客站点神器 https://github.com/getzola/zola
