@@ -36,6 +36,7 @@ A record that helps me（对我有帮助的记录）
 8. UI库 https://github.com/redox-os/orbtk  https://github.com/linebender/druid
 9. 一个很吸引人的终端介绍 https://github.com/o2sh/onefetch
 10. 一个生成二维码的库 https://github.com/nayuki/QR-Code-generator
+11. 基础 https://rustwiki.org/zh-CN/rust-by-example/primitives/literals.html
 
 #### Rust Web
 1. https://github.com/http-rs/tide
