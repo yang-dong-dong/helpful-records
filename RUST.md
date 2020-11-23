@@ -19,3 +19,4 @@
 6.2 Rust数组拥有固定长度，一旦声明就不能随意更改大小；（Vector动态数组）
 7. 函数，使用蛇形命名（snake case），只使用小写字母，并已下划线分割单词；
 8. if match
+9. 循环 loop、while、for
