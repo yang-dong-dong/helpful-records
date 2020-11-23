@@ -47,4 +47,5 @@ A record that helps me（对我有帮助的记录）
 3. 数学 https://www.mathjax.org/ 
 
 #### 博客文章
-1. https://siciarz.net/24-days-of-rust-rust-crypto/ 24Days
+1. https://siciarz.net/24-days-of-rust-rust-crypto/ 24Days【Rust】
+2. https://geektutu.com/post/quick-rust.html 【Rust】
