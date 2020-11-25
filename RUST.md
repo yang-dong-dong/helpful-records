@@ -37,4 +37,4 @@
 - println!("{}") 打印必须实现std::fmt::Display;println!("{:?}")打印结构体需要注解#[derice(Debug)] 
 - println!("{:#?}")
 - trait impl &self
-- 创建自定义类型：结构体+枚举
+- 创建自定义类型：结构体（struct） + 枚举（Enum）
