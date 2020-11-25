@@ -33,3 +33,8 @@
 - Rust 提供持有所有权地数据类型：引用、切片（slice）
 - 语法：as_bytes().iter().enumerate() 返回 元组（tuple）（索引、集合字节地引用）
 - 语法：String.clear() 变为 “”
+- 结构体 、 元组（tuple）、trait
+- println!("{}") 打印必须实现std::fmt::Display;println!("{:?}")打印结构体需要注解#[derice(Debug)] 
+- println!("{:#?}")
+- trait impl &self
+- 创建自定义类型：结构体+枚举
