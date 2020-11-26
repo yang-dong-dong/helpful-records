@@ -38,3 +38,5 @@
 - println!("{:#?}")
 - trait impl &self
 - 创建自定义类型：结构体（struct） + 枚举（Enum）
+
+- Vec<T> vec![]  .push *解引用
