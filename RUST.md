@@ -40,3 +40,5 @@
 - 创建自定义类型：结构体（struct） + 枚举（Enum）
 
 - Vec<T> vec![]  .push *解引用
+- String push push_str format!()  chars() bytes()
+- std::collections::HashMap insert .collect .get   Vec.iter().zip(Vec.iter()).collect()   .entry(key).or_insert(value)
