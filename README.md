@@ -54,3 +54,7 @@ A record that helps me（对我有帮助的记录）
 
 #### $$$$$$$
 1. 基于http协议使用protobuf进行前后端交互
+
+
+#### Dart
+1. 后台如何运行 Dart https://medium.com/flutter/executing-dart-in-the-background-with-flutter-plugins-and-geofencing-2b3e40a1a124
