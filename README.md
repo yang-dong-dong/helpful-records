@@ -13,6 +13,7 @@ A record that helps me（对我有帮助的记录）
 
 1. 眼花缭乱的按钮 https://www.bootcss.com/p/buttons/
 2. 开源中国浏览器兼容提醒页面 https://www.oschina.net/ie_compatibility
+3. https://animate.style/ 特效样式
 
 
 #### Backend
