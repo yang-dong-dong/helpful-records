@@ -55,6 +55,7 @@ A record that helps me（对我有帮助的记录）
 
 #### $$$$$$$
 1. 基于http协议使用protobuf进行前后端交互
+2. https://github.com/chinarui-na/quasar-shell-panel
 
 
 #### Dart
